@@ -57,29 +57,8 @@ const Frontscreens = () => {
                   </Typography>
                   </CardContent>
 
-                  
-
-
-
-
-                  
-
-
-
-
-
-
-
                 </Card>
-
-
-
-
-
-              </Grid>
-                
-
-            
+              </Grid>    
         ))
       }
       </Grid>
