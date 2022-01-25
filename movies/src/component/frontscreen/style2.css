@@ -1,0 +1,18 @@
+.card1{
+  margin-top: 30px;
+  margin-left: 20px;
+  max-width: 300px;
+  max-height: 300px;
+  
+  border-radius: 5px;
+}
+.typos{
+  color:white;
+  font-weight:600;
+  margin-bottom: 5px;
+}
+.content{
+ padding-bottom:13px;
+  box-shadow: 0 8px 6px -6px whitesmoke;
+}
+

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@alan-ai/alan-sdk-web": "^1.8.28",
+    "@mui/material": "^5.0.6",
+    "react-object-fit-cover": "^1.0.0"
+  }
+}
