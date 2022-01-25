@@ -10,16 +10,16 @@
 ---
 ## Features
 - AI integration voice command using `Alan AI`.
-- World wide movies description and trailers from diffrent sources using `IMDB` .
-- Used Material-ui for frontend design.
+- World wide movies description and trailers from diffrent sources using `IMDB API` .
+- Used `Material-ui` for frontend design.
 
 
 ---
 ## Installation
 
 javascript
-npm i &&
-npm start
+`npm i` &&
+`npm start`
 
 
 
