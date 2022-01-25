@@ -18,7 +18,7 @@
 ## Installation
 
 javascript
-npm i
+npm i &&
 npm start
 
 
